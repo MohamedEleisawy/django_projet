@@ -33,8 +33,6 @@ frontend/dist/
 frontend/.vite/
 frontend/.env
 frontend/vite.config.js
-frontend/package-lock.json
-frontend/package.json
 frontend/yarn.lock
 
 # Virtual Environment
